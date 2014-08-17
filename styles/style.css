@@ -136,6 +136,11 @@ header #ben {
     padding-bottom: 220px;
   }
 }
+@media (min-width: 992px) {
+  #header #title {
+    padding-top: 100px;
+  }
+}
 
 section {
   padding: 150px 0;
