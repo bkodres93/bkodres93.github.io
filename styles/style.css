@@ -240,6 +240,12 @@ section#profiles .row div{
     width: 50%;
   }
 }
+@media (min-width: 992px) {
+  section#profiles img{
+    height: 210px;
+    width: 210px;
+  }
+}
 
 
 /*--------------------------------------------------------------------------
