@@ -225,6 +225,9 @@ section#work .view-project {
 section#work h3 {
   text-align: center;
 }
+section#work #release {
+  color: #006BB2;
+}
 
 section#profiles {
   padding-top: 50px;
