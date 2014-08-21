@@ -36,4 +36,3 @@ var insertEmail = function () {
         .attr('href', 'mailto:' + email)
         .text(email);
 };
-
