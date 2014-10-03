@@ -165,6 +165,7 @@ section h2 {
   }
 }
 
+/* ABOUT SECTION */
 @media (max-width: 768px) {
   section#about {
     padding: 250px 0;
@@ -186,6 +187,9 @@ section#about #sarah {
 section#about p.about {
   margin: 10px auto;
 }
+
+
+/* WORK SECTION */
 section#work {
   color: #fff;
   background: #339966;
@@ -229,6 +233,8 @@ section#work #release {
   color: #006BB2;
 }
 
+
+/* PROFILES SECTION */
 section#profiles {
   padding-top: 50px;
   background-color: #fff;
@@ -248,6 +254,31 @@ section#profiles .row div{
     height: 210px;
     width: 210px;
   }
+}
+
+/* INSPIRATION APP SECTION */
+section#inspiration {
+  color: #ffffff;
+  background: #000;
+}
+section#inspiration a {
+  color: #fff;
+}
+section#inspiration .btn-outline {
+  border: solid 2px #fff;
+  color: #fff;
+  margin-top: 40px;
+}
+section#inspiration .btn-outline:hover,
+section#inspiration .btn-outline:focus,
+section#inspiration .btn-outline:active,
+section#inspiration .btn-outline.active {
+  color: #000;
+  background: #ffffff;
+}
+
+section#inspiration h3 {
+  text-align: center;
 }
 
 
