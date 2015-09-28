@@ -1,7 +1,12 @@
 body {
-    font-family: Menlo;
+    font-family: "Lucida Console";
+    background-color: black;
+    color: white;
 }
 p {
     font-size: 12px;
     white-space: pre;
+}
+a {
+    color: white;
 }
