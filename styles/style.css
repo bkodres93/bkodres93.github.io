@@ -11,7 +11,7 @@ p {
 a {
     color: white
 }
-#invisible {
+.invisible {
     color: black;
 }
 #ascii {
