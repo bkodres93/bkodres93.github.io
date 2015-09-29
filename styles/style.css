@@ -2,6 +2,7 @@ body {
     font-family: Consolas, "Lucida Console";
     background-color: black;
     color: white;
+    opacity: 0;
 }
 p {
     font-size: 13px;
@@ -11,5 +12,9 @@ a {
     color: white
 }
 #invisible {
+    color: black;
+}
+#ascii {
+    float: right;
     color: black;
 }
