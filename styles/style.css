@@ -1,5 +1,5 @@
 body {
-    font-family: Consolas, "Lucida Console";
+    font-family: Consolas, monaco, monospace;
     background-color: black;
     color: white;
     opacity: 0;
@@ -14,6 +14,12 @@ a {
 .invisible {
     color: black;
 }
-#ascii {
+#content {
+    float:left;
+}
+#img {
     float: right;
+}
+#ascii_link {
+    text-decoration: none;
 }
